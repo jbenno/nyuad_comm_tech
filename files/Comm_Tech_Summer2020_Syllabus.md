@@ -44,7 +44,7 @@ In an analysis paper, students will apply a lens of critical thinking to histori
 - Heidegger, Martin. The Question Concerning Technology, and Other Essays. New York: Garland Pub, 1977. https://monoskop.org/images/4/44/Heidegger_Martin_The_Question_Concerning_Technology_and_Other_Essays.pdf.
 
 ### 1. [Technology studies](https://github.com/jbenno/nyuad_comm_tech/wiki/01)
-# Technology Studies
+
 [Video recording of this lecture](https://stream.nyu.edu/media/Communication+%26+Technology+-+01/1_ahejqnl4)
 - Science and technology studies applied to the history of communication
 
@@ -188,9 +188,7 @@ Cleaver, Laura, Alixe Bovey, and Lucy Donkin, eds. Illuminating the Middle Ages:
 ## Part III: Interactive media
 ### 8. [Digital media and the internet](https://github.com/jbenno/nyuad_comm_tech/wiki/08)
 
-<sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_comm_tech/wiki/07) | [&uarr; Back to course home page](https://github.com/jbenno/nyuad_comm_tech/wiki/) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_comm_tech/wiki/09)</sup>
 
-# Digital media and the internet
 [Video recording of this lecture](https://stream.nyu.edu/media/Communication+%26+Technology+-+08/1_4m4np5gs)
 - What is "digital"?
 - The digital machine: Processor, code, memory, output
