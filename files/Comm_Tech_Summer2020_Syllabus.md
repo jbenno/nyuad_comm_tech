@@ -6,8 +6,6 @@
 **Times**: Mon, Tue, Wed, Thu, 14:00 to 17:00 h GST  
 
 
-[Additional information on assignments, grading, administrative matters](https://github.com/jbenno/nyuad_comm_tech/wiki/Additional-Information)
-
 From the very first alphabet to technology existing only as speculative design, this course will explore the development, reaction, and impact of some of humankind's most transformative innovations – its forms of communication. How have these inventions, such as writing, printing, the telegraph, television, radio, the internet and beyond, influenced human behavior throughout the course of history. How have humans shaped their development and direction? And what role do they play informing our lives both today and tomorrow?
 
 This course will focus on the role and application of communication technologies with a transnational cross-cultural lens. Beginning in ancient times and making our way to the present, we will analyze how, why, and to what effect innovations were adopted both geographically and culturally. Readings and discussion will cover history and historiography, the philosophy of technology, science and technology studies, media theory, and creative application. Weekly writing assignments will traverse a variety of media forms and contexts.
@@ -241,20 +239,86 @@ Research an emerging communication technology or trend and design a product or s
 
 This project is meant to engage you in using design as a creative process to address social, cultural, environmental and ethical impacts of technology.
 
-## Method
+### Method
 This project can be completed collaboratively in groups of up to 4 people or independently, as you prefer.
 We will have time in class over the next weeks to discuss and work on projects, but the majority of work is expected to take place as weekly homework.
 You may complete the project in a medium of your choice but it should demonstrate effort and craft. For example it can be a 3d printed prototype of a physical device, it could be a website or video promoting a service. Your narrative can be text, like a short story or something more inventive, a graphic novel, poster or podcast script for example.
 
-## Deliverables
-### Prototype
+### Deliverables
+#### Prototype
 You will create a prototype of the product or service you imagine along with a 1-page (300 words) narrative describing the character who uses it and the world they inhabit.
 
 This creative project is meant to be equivalent to a 10 page final paper. As such it should demonstrate significant research, reflection, and creative effort. You should show an engagement with the readings and discussions we have had throughout the semester as well as original ideas of your own and independent work.
 
-### Final presentations in class
+#### Final presentations in class
 The last week of class will be devoted to showing and discussing final projects. In your presentation you will show your prototype and discuss your research as well as your narrative. In addition to giving a 5 minute presentation of your work you are expected to engage and comment on the work of others. Each presentation will consist of 5 minutes presentation and 5 minutes discussion. Engage the class with a prompt or question during your presentation so it opens conversation.
 
 
-### Documentation
+#### Documentation
 Submit documentation by the due date to NYU Classes. Documentation should include your 1 page (300 words) narrative and at least a 1 page (300 words) description of what you made and why demonstrating the research completed, as well as 4-5 high resolution images which convey the creative work completed. Submit everything in one PDF with your name (and those of your collaborators if applicable) and project title.
+
+# Additional Information
+## Learning Outcomes
+- Think critically and work creatively toward innovations in communication technology, design, and computation.
+- Demonstrate an understanding of the historical significance of major technical inventions situated in the field of communications.
+- Describe key concepts and theories that explain the relationship between these innovations and the development of human behavior, incorporating global, cultural, social, and political perspectives.
+- Gain the ability to reflect on the impact recent communication advances have had on our own individual lives and behavior patterns
+- Gain exposure to writing across various forms of media, old and new.
+- Clearly communicate ideas and analysis in a verbal, visual, auditory, experiential, and written form.
+
+## Assignments
+- Reading and watching the provided material is required in advance for each class.
+- Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
+- The readings, writing assignments, as well assigned talks and presentations can be found on NYU Classes, as well as in this spreadsheet: https://docs.google.com/spreadsheets/d/1Bu35X0wV_cASv74YWs31mLPuC5KtvBMBXeJX49akmqU/edit?usp=sharing
+- Please submit assignments via NYU Classes. Submissions can be just links to your blog, webpage or Google document. If you have to submit via email, please put [CommTech] in front of the email subject. 
+
+### Group Lesson
+- There will be four or five student-lead lectures on an assigned topic.
+- Students prepare these as full length lectures, working together in groups of 3 to 5.
+- Each student is expected to work in at least one of these projects.
+- The lecture can be prerecorded.
+- Slides and other material has to be submitted and made available to the class.
+
+### Analysis Paper
+In a 4-5 page paper (min 1200, max 1500 words) identify a specific communication technology that was developed or emerged in your hometown, city, or country of origin. Your paper must identify and argue for factors (i.e. social, cultural, technical, political, economic or others) that caused, related, and resulted from its emergence. Also, attempt to analyze its impact and significance within the world stage of communication technology.
+
+### Final Project - Speculative Design - The Future of Communication Technology.
+Develop a narrative around an existing or imagined use of communication technology in the form of a new product or service. Your narrative should be character driven. How does communication technology impact this character’s life? Their relations with other beings and the environment? How are politics affected? Social and cultural customs? Show the world this character exists in and how it is different from today. Demonstrate the interplay of technology and society. The narrative can be written, visual (i.e. graphic novel), video or sound.
+
+### Short Responses
+- Students will write a one page response.
+- All responses must be submitted on time before the next class.
+
+## Grades and Rubrics
+### Grades
+10% Participation: Active contribution to the discussions, showing initiative, taking on tasks outside the assignments - this includes participation in forum discussions.
+30% Assignments: Preparedness (having actually read/watched the material), timely submission of assignments, quality of work (see rubrics), presenting in class.
+30% - Analysis paper
+30% - Final project
+
+### Rubrics
+20% Comprehension (understanding of the material, structure, argumentation)
+30% Criticism (assessing the form, intention, preliminary conditions of the assigned material; questioning the arguments), resp. technical complexity for programming assignments
+50% Creativity (Showing original thoughts and ideas; compelling form of presentation; creative use of various techniques with focus on interactive media; aesthetics of the experience)
+
+### Assignments will be graded according to the following scale of 100%
+- Poor	Evinced poor absorption of material, or made no effort (0-70%)
+- Adequate	Accomplished enough to prove the student encountered the material (71-80%)
+- Good	Demonstrated strong effort incorporating and articulating concepts in a creative way (81-90%)
+- Excellent	Exceptional creativity, understanding and synthesis of the material (91-100%)
+
+### Attendance and Participation
+- Engaging in the class discussion, offering feedback to peers, and being mentally present is a major part of the grade, no matter if in real time or in virtual discussions. 
+- Daily submission of responses and participation in group discussions in mandatory.
+
+## Administrative Matters
+
+### Office hours
+Please reach out to me via email. I shall be happy to arrange an office hour.
+
+### Accommodation
+Diversity and inclusion are important tenets of NYUAD and my own teaching philosophy. Please let me know if you have a disability I should be aware of or require special assistance. I am happy to make accommodations. 
+
+### Academic Integrity
+The mandatory policies and procedures relating to academic integrity can be found here:  
+https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html
