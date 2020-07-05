@@ -1,4 +1,4 @@
-# List of the Youtube links to the recorded lecutres:
+# List of the Youtube links to the recorded lectures:
 
 0. https://youtu.be/2zHJFzwNPc8
 1. https://youtu.be/2fBb1fCSKsA
