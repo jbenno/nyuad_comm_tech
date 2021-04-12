@@ -41,9 +41,12 @@ In an analysis paper, students will apply a lens of critical thinking to histori
 #### 10. [Art and communication technology](/files/10.md)
 
 ### Part IV: The future
-#### 11. and 12. [Futurism and speculative design](/files/11.md)
-#### 13. and 14. [Final project](/files/12.md)
+#### 11. [Futurism and speculative design](/files/11.md)
+#### 12. [Final project](/files/12.md)
 \
 \
-\
-This class is offered twice in 2021, over the Summer and in the Fall.
+This class is offered twice in 2021, over the Summer and in the Fall.  
+
+***
+<sup>NYU Abu Dhabi ***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+
