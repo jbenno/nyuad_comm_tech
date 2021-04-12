@@ -2,9 +2,6 @@
 **Instructor: Joerg Blumtritt**  
 **Course Number: IM-UH 1012**  
 \
-**Dates**: 07/09/2020 to 09/12/2020  
-**Times**: Mon and Wed 16:05 to 17:20 h GST  
-
 From the very first alphabet to technology existing only as speculative design, this course will explore the development, reaction, and impact of some of humankind's most transformative innovations – its forms of communication. How have these inventions, such as writing, printing, the telegraph, television, radio, the internet and beyond, influenced human behavior throughout the course of history. How have humans shaped their development and direction? And what role do they play informing our lives both today and tomorrow?
 
 This course will focus on the role and application of communication technologies with a transnational cross-cultural lens. Beginning in ancient times and making our way to the present, we will analyze how, why, and to what effect innovations were adopted both geographically and culturally. Readings and discussion will cover history and historiography, the philosophy of technology, science and technology studies, media theory, and creative application. Weekly writing assignments will traverse a variety of media forms and contexts.
@@ -49,5 +46,4 @@ In an analysis paper, students will apply a lens of critical thinking to histori
 \
 \
 \
-This class is offered twice in 2020. The information on the past class Summer 2020 can be found here:
-[Summer 2020](https://github.com/jbenno/nyuad_comm_tech/wiki/Summer-2020)  
+This class is offered twice in 2021, over the Summer and in the Fall.
