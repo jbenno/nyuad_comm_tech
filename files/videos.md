@@ -1,5 +1,7 @@
-# List of the Youtube links to the recorded lectures:
+# The recorded lectures on Youtube
+- the Youtube playlist: https://www.youtube.com/watch?v=2zHJFzwNPc8&list=PL3MYvDynexnIzEfO8iXx3Nyrr1p2AwAWw
 
+#### The 12 lectures:
 0. https://youtu.be/2zHJFzwNPc8
 1. https://youtu.be/2fBb1fCSKsA
 2. https://youtu.be/9TDLfCdi-9I
