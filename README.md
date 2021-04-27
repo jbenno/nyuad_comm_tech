@@ -1,7 +1,7 @@
 # Communication and Technology
 **Instructor: Joerg Blumtritt**  
 **Course Number: IM-UH 1012**  
-\
+
 From the very first alphabet to technology existing only as speculative design, this course will explore the development, reaction, and impact of some of humankind's most transformative innovations – its forms of communication. How have these inventions, such as writing, printing, the telegraph, television, radio, the internet and beyond, influenced human behavior throughout the course of history. How have humans shaped their development and direction? And what role do they play informing our lives both today and tomorrow?
 
 This course will focus on the role and application of communication technologies with a transnational cross-cultural lens. Beginning in ancient times and making our way to the present, we will analyze how, why, and to what effect innovations were adopted both geographically and culturally. Readings and discussion will cover history and historiography, the philosophy of technology, science and technology studies, media theory, and creative application. Weekly writing assignments will traverse a variety of media forms and contexts.
