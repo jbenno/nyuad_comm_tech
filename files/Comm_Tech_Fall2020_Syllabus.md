@@ -29,7 +29,7 @@ In an analysis paper, students will apply a lens of critical thinking to histori
 
 [Video recording of this lecture](https://stream.nyu.edu/media/Communication+%26+Technology+-+Introduction/1_seyr84er)
 
-- What is communication? What is technology? 
+- What is communication? What is technology?
 - How to study the history and theory of communication and technology?
 - Semiotics: Language and other signs
 
@@ -48,8 +48,8 @@ In an analysis paper, students will apply a lens of critical thinking to histori
 [Video recording of this lecture](https://stream.nyu.edu/media/Communication+%26+Technology+-+01/1_ahejqnl4)
 - Science and technology studies applied to the history of communication
 
-### Readings 
-- Galison, Peter. “Ten Problems in History and Philosophy of Science.” Isis 99, no. 1 (2008): 111–24. https://doi.org/10.1086/587536. 
+### Readings
+- Galison, Peter. “Ten Problems in History and Philosophy of Science.” Isis 99, no. 1 (2008): 111–24. https://doi.org/10.1086/587536.
 
 #### Further readings
 - Schatzberg, Eric. Technology: Critical History of a Concept. Technology. University of Chicago Press. Accessed April 11, 2020. https://www.universitypressscholarship.com/view/10.7208/chicago/9780226584027.001.0001/upso-9780226583839. Introduction.
@@ -106,7 +106,7 @@ In an analysis paper, students will apply a lens of critical thinking to histori
 
 _Vienna Genesis_
 - Unknown author. Sogenannte Wiener Genesis. Unknown place: 6th century. Digitazed and published by Österreichische Nationalbibliothek from Cat. No. Cod. Theol. gr. 31, Vienna. http://data.onb.ac.at/rep/106F8E6A.
- 
+
 \
 _Kitab Al Taryaq_
 - Kerner, Jaclynne J. Art in the name of science: The KITĀB AL-DIRYĀQ in text and image. In:
@@ -257,18 +257,31 @@ Submit documentation by the due date to NYU Classes. Documentation should includ
 
 # Additional Information
 ## Learning Outcomes
-- Think critically and work creatively toward innovations in communication technology, design, and computation.
-- Demonstrate an understanding of the historical significance of major technical inventions situated in the field of communications.
-- Describe key concepts and theories that explain the relationship between these innovations and the development of human behavior, incorporating global, cultural, social, and political perspectives.
-- Gain the ability to reflect on the impact recent communication advances have had on our own individual lives and behavior patterns
-- Gain exposure to writing across various forms of media, old and new.
-- Clearly communicate ideas and analysis in a verbal, visual, auditory, experiential, and written form.
+### Course learning outcomes
+(reference to programme learning outcomes in brackets (PLO)
 
+1. (PLO 4): Think critically and work creatively toward innovations in communication technology, design, and computation.
+2. (PLO 1): Demonstrate an understanding of the historical significance of major technical inventions situated in the field of communications.
+3. (PLO 3): Describe key concepts and theories that explain the relationship between these innovations and the development of human behavior, incorporating global, cultural, social, and political perspectives.
+4. (PLO 4): Gain the ability to reflect on the impact recent communication advances have had on our own individual lives and behavior patterns
+5. (PLO 6): Gain exposure to writing across various forms of media, old and new.
+6. (PLO 7): Clearly communicate ideas and analysis in a verbal, visual, auditory, experiential, and written form.
+
+### Programme Learning Outcomes
+Upon completion of the major in Interactive Media at NYU Abu Dhabi, all students are expected to have fulfilled the following:
+1. Research and Understanding: IM students will cultivate a substantive understanding of the past, present, and future landscape of Interactive Media.
+2. Analytical Thinking: IM students will be challenged to answer fundamental questions relating to the field of Interactive Media.
+3. Conceptual Thinking: IM students will develop conceptual skills through the use of computational and interactive media tools to create project-based work and project oriented research.
+4. Critical Thinking: IM students will refine their critical thinking skills by analysing and critiquing work in cultural, social, historical, ethical, and aesthetic contexts.
+5. Technical Implementation: IM students will cultivate technical skills with contemporary media technologies to execute their coursework.
+6. Creative Processes: IM students will gain the ability to explore, innovate, and realise creative ideas in multiple fields of inquiry and interest.
+7. Organisation and Communication: IM students will develop professional practices of delivering and sharing their work.
+8. Collaboration: IM Students will gain experience in collaboration through active participation in group and team-based work.
 ## Assignments
 - Reading and watching the provided material is required in advance for each class.
 - Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
 - The readings, writing assignments, as well assigned talks and presentations can be found on NYU Classes, as well as in this spreadsheet: https://docs.google.com/spreadsheets/d/1Bu35X0wV_cASv74YWs31mLPuC5KtvBMBXeJX49akmqU/edit?usp=sharing
-- Please submit assignments via NYU Classes. Submissions can be just links to your blog, webpage or Google document. If you have to submit via email, please put [CommTech] in front of the email subject. 
+- Please submit assignments via NYU Classes. Submissions can be just links to your blog, webpage or Google document. If you have to submit via email, please put [CommTech] in front of the email subject.
 
 ### Group Lesson
 - There will be four or five student-lead lectures on an assigned topic.
@@ -306,7 +319,7 @@ Develop a narrative around an existing or imagined use of communication technolo
 - Excellent	Exceptional creativity, understanding and synthesis of the material (91-100%)
 
 ### Attendance and Participation
-- Engaging in the class discussion, offering feedback to peers, and being mentally present is a major part of the grade, no matter if in real time or in virtual discussions. 
+- Engaging in the class discussion, offering feedback to peers, and being mentally present is a major part of the grade, no matter if in real time or in virtual discussions.
 - Daily submission of responses and participation in group discussions in mandatory.
 
 ## Administrative Matters
