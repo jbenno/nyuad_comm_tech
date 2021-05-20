@@ -24,6 +24,9 @@ You find the links to the recorded lectures on the lecture's pages and following
 
 ## Schedule
 *Subject to modification and clarification*
+
+[Spreadsheet with the dates and assignments](https://docs.google.com/spreadsheets/d/10EElPgwd0SA_fW2tWd3AjJ3SswVbAe7kLfOHETJjV4k/edit?usp=sharing)  
+
 ### Part I: The story of writing
 #### 0. [Introduction](/files/00.md)
 #### 1. [Technology studies](/files/01.md)
