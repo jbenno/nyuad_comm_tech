@@ -41,7 +41,7 @@ You find the links to the recorded lectures on the lecture's pages and following
 
 ### Part III: Interactive media
 #### 8. [Digital media and the internet](/files/08.md)
-#### 9. [Social media and mobile](/files/09.m)
+#### 9. [Social media and mobile](/files/09.md)
 #### 10. [Art and communication technology](/files/10.md)
 
 ### Part IV: The future
