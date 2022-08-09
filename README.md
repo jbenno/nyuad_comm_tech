@@ -49,7 +49,7 @@ You find the links to the recorded lectures on the lecture's pages and following
 #### 12. [Final project](/files/12.md)
 \
 \
-This class is offered twice in 2021, over the Summer and in the Fall.  
+
 
 ***
 <sup>NYU Abu Dhabi ***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
