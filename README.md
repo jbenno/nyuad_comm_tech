@@ -47,10 +47,8 @@ You find the links to the recorded lectures on the lecture's pages and following
 ### Part IV: The future
 #### 11. [Futurism and speculative design](/files/11.md)
 #### 12. [Final project](/files/12.md)
-\
-\
 
 
 ***
-<sup>NYU Abu Dhabi ***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+<sup>NYU Abu Dhabi ***[Communication and Technology](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
 
